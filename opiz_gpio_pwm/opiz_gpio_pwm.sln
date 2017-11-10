@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opiz_gpio_pwm", "opiz_gpio_pwm\opiz_gpio_pwm.vcxproj", "{51E195E8-23FA-455C-9646-EA7C82A7F6CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51E195E8-23FA-455C-9646-EA7C82A7F6CE}.Debug|ARM.ActiveCfg = Debug|ARM
+		{51E195E8-23FA-455C-9646-EA7C82A7F6CE}.Debug|ARM.Build.0 = Debug|ARM
+		{51E195E8-23FA-455C-9646-EA7C82A7F6CE}.Debug|x64.ActiveCfg = Debug|x64
+		{51E195E8-23FA-455C-9646-EA7C82A7F6CE}.Debug|x64.Build.0 = Debug|x64
+		{51E195E8-23FA-455C-9646-EA7C82A7F6CE}.Debug|x86.ActiveCfg = Debug|x86
+		{51E195E8-23FA-455C-9646-EA7C82A7F6CE}.Debug|x86.Build.0 = Debug|x86
+		{51E195E8-23FA-455C-9646-EA7C82A7F6CE}.Release|ARM.ActiveCfg = Release|ARM
+		{51E195E8-23FA-455C-9646-EA7C82A7F6CE}.Release|ARM.Build.0 = Release|ARM
+		{51E195E8-23FA-455C-9646-EA7C82A7F6CE}.Release|x64.ActiveCfg = Release|x64
+		{51E195E8-23FA-455C-9646-EA7C82A7F6CE}.Release|x64.Build.0 = Release|x64
+		{51E195E8-23FA-455C-9646-EA7C82A7F6CE}.Release|x86.ActiveCfg = Release|x86
+		{51E195E8-23FA-455C-9646-EA7C82A7F6CE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8341C68-27B9-441C-BDCC-09A578C6A1F1}
+	EndGlobalSection
+EndGlobal
